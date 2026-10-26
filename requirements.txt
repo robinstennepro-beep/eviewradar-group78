@@ -1,0 +1,9 @@
+# ReviewRadar: hosted version (Streamlit Community Cloud, CPU, lite engine)
+streamlit>=1.50
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+scipy>=1.10
+joblib>=1.3
+vaderSentiment>=3.3.2
+plotly>=5.18
